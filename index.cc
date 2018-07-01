@@ -6,5 +6,6 @@ int main(){
 	cout << "Installed git citool" << endl;
 	cout << "Hello Swordsflame" << endl;
  	cout << "Hello Swordsflame1" << endl;
+ 	cout << "Kiran" << endl;
 	return 0;
 }
